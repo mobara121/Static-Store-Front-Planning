@@ -6,7 +6,7 @@ html {
 body{
     background-color: #f0d7a7;
     margin: 0em;
-    background-image: url("./homepic.png");
+    background-image: url("./asset/homepic.png");
     background-repeat: no-repeat;
     background-position: center top;
     background-attachment: fixed;
@@ -112,7 +112,7 @@ body{
 /* card */
 .card-wrapper{
   padding: 100px auto;
-  background-image: url('./06f63f715a6eb9f6ad075d95223f14a5.jpg'); 
+  background-image: url('./asset/06f63f715a6eb9f6ad075d95223f14a5.jpg'); 
   background-repeat: no-repeat;
   background-size: cover;
 }
